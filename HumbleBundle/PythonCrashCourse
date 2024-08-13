@@ -1,0 +1,9 @@
+first_name = "andy"
+last_name = "arias"
+full_name = f"{first_name} {last_name}"
+print (f"Hi there, {full_name.title()}!")
+
+first_name = "andy"
+last_name = "arias"
+full_name = f"{first_name.title()} {last_name}"
+print (f"Hi there, {full_name}!")
